@@ -1,0 +1,47 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "DrumSynth Glass.amxd",
+	"origin" : "DrumSynth Glass.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "DrumSynth Glass.amxd",
+		"origname" : "~/Music/Ableton/Factory Packs/Max for Live Essentials/Max Instrument/DrumSynth/Cells/DrumSynth Glass.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"All On/Off" : 0.0,
+				"Depth" : 127.0,
+				"Depth Curve" : 0.0,
+				"Depth Max" : 100.0,
+				"Depth Min" : 0.0,
+				"Depth On/Off" : 0.0,
+				"Material" : 0.0,
+				"Pitch" : 64.0,
+				"Pitch Curve" : 0.0,
+				"Pitch Max" : 100.0,
+				"Pitch Min" : 0.0,
+				"Pitch On/Off" : 0.0,
+				"Reso Curve" : 0.0,
+				"Reso Max" : 100.0,
+				"Reso Min" : 0.0,
+				"Reso On/Off" : 0.0,
+				"Resonance" : 64.0,
+				"Volume Curve" : 0.0,
+				"Volume Max" : 100.0,
+				"Volume Min" : 0.0,
+				"Volume On/Off" : 0.0,
+				"gain" : 111.0,
+				"blob" : 				{
+					"Expand" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

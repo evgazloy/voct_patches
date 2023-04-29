@@ -1,0 +1,56 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "DrumSynth HH.amxd",
+	"origin" : "DrumSynth HH.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "DrumSynth HH.amxd",
+		"origname" : "~/Music/Ableton/Factory Packs/Max for Live Essentials/Max Instrument/DrumSynth/Cells/DrumSynth HH.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"All On/Off" : 0.0,
+				"Decay" : 37.0,
+				"Decay Curve" : 0.0,
+				"Decay Max" : 100.0,
+				"Decay Min" : 0.0,
+				"Decay On/Off" : 0.0,
+				"Noise Type" : 0.0,
+				"PFreq Curve" : 0.0,
+				"PFreq Max" : 100.0,
+				"PFreq Min" : 0.0,
+				"Pan" : 64.0,
+				"Pink Freq" : 0.0,
+				"Pitch" : 54.0,
+				"Pitch Curve" : 0.0,
+				"Pitch Max" : 100.0,
+				"Pitch Min" : 100.0,
+				"Pitch On/Off" : 0.0,
+				"PunchOnOff" : 0.0,
+				"Punch[1]" : 0.0,
+				"Random Pan" : 0.0,
+				"Reso" : 0.0,
+				"Tone" : 111.0,
+				"Tone Curve" : 0.0,
+				"Tone Max" : 100.0,
+				"Tone Min" : 0.0,
+				"Tone On/Off" : 0.0,
+				"Volume" : 120.0,
+				"Volume Curve" : 0.0,
+				"Volume Max" : 100.0,
+				"Volume Min" : 0.0,
+				"Volume On/Off" : 0.0,
+				"blob" : 				{
+					"Expand" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

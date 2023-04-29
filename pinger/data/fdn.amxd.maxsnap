@@ -1,0 +1,46 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "fdn.amxd",
+	"origin" : "fdn.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "fdn.amxd",
+		"origname" : "~/Documents/Max 8/Devices/max_standalone/fdn_m4l/fdn.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"AFB-Clip" : 71.120002999999997,
+				"AFB-Rate" : 94.487999000000002,
+				"AFB-Sens" : 62.992001000000002,
+				"Auto-FB" : 1.0,
+				"AutoGainRate" : 99.568000999999995,
+				"AutoNetRate" : 87.375998999999993,
+				"AutoRandNetwork" : 1.0,
+				"GL-Delay" : 58.928001000000002,
+				"GL-Freq" : 47.751998999999998,
+				"GL-Q" : 35.560001,
+				"RandInLevels" : 1.0,
+				"RandSmooth" : 1.0,
+				"randTrig" : 0.0,
+				"wet/dry" : 1.0,
+				"blob" : 				{
+					"FB-Gain" : [ 127.0 ],
+					"FB-level" : [ 127.0 ],
+					"InLevelMinMax" : [ 0, 103 ],
+					"modIn-1" : [ 60.329240723791614 ],
+					"modIn-2" : [ 55.09470170454329 ],
+					"modIn-3" : [ 84.803917097281982 ],
+					"modIn-4" : [ 61.597268992272852 ],
+					"modIn-5" : [ 71.609902907025528 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
