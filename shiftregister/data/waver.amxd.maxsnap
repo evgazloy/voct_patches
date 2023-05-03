@@ -1,0 +1,34 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "waver.amxd",
+	"origin" : "waver.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "waver.amxd",
+		"origname" : "~/Music/Ableton/User Library/Presets/Instruments/Max Instrument/waver.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"blob" : 				{
+					"energy_scale" : [ 0, 0, 1.0 ],
+					"number" : [ 60 ],
+					"number[1]" : [ 8 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 3999.342542007084376 ],
+					"number[4]" : [ 943.291772189681183 ],
+					"number[5]" : [ 10.0 ],
+					"number[6]" : [ 0.8 ],
+					"number[7]" : [ 11043.179947968585111 ],
+					"textedit" : [ "\"Macintosh HD:/Users/zloy/Documents/samples/packs/mp1/mp1Vocal/RONIIT_vocal_fx_sexy_breath.wav\"" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
