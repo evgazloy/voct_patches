@@ -1,0 +1,46 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "fdn.amxd",
+	"origin" : "fdn.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "fdn.amxd",
+		"origname" : "~/Desktop/voct/patches/pinger/patchers/fdn.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"AFB-Clip" : 0.0,
+				"AFB-Rate" : 80.000000000000114,
+				"AFB-Sens" : 46.000000000000135,
+				"Auto-FB" : 1.0,
+				"AutoGainRate" : 99.568000999999995,
+				"AutoNetRate" : 87.375998999999993,
+				"AutoRandNetwork" : 1.0,
+				"GL-Delay" : 10.999999999999986,
+				"GL-Freq" : 43.751999000000005,
+				"GL-Q" : 80.560000999999914,
+				"RandInLevels" : 1.0,
+				"RandSmooth" : 1.0,
+				"randTrig" : 0.0,
+				"wet/dry" : 1.0,
+				"blob" : 				{
+					"FB-Gain" : [ 48.25 ],
+					"FB-level" : [ 13.837405957731059 ],
+					"InLevelMinMax" : [ 64, 105 ],
+					"modIn-1" : [ 107.54180718183926 ],
+					"modIn-2" : [ 102.587635918438679 ],
+					"modIn-3" : [ 111.427122602742386 ],
+					"modIn-4" : [ 93.455013788746243 ],
+					"modIn-5" : [ 102.479322164895578 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
