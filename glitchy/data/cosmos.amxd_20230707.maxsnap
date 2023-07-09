@@ -1,0 +1,34 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "cosmos.amxd",
+	"origin" : "cosmos.amxd",
+	"type" : "amxd",
+	"subtype" : "Undefined",
+	"embed" : 0,
+	"snapshot" : 	{
+		"name" : "cosmos.amxd",
+		"origname" : "~/Music/Ableton/User Library/Presets/Audio Effects/Max Audio Effect/cosmos.amxd",
+		"valuedictionary" : 		{
+			"parameter_values" : 			{
+				"Blur" : 1.0,
+				"Drift" : 1.0,
+				"FB" : 1.0,
+				"Mix" : 1.0,
+				"Sup" : 0.0,
+				"erase" : 0.0,
+				"erase_all" : 0.0,
+				"hp" : 0.0,
+				"lp" : 1.0,
+				"mode" : 1.0,
+				"record" : 1.0,
+				"reverse" : 0.0,
+				"size" : 0.0
+			}
+
+		}
+
+	}
+
+}
